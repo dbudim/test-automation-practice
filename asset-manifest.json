@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-automation-practice/static/css/main.e6c13ad2.css",
+    "main.js": "/test-automation-practice/static/js/main.c369018a.js",
+    "static/js/453.16e548a7.chunk.js": "/test-automation-practice/static/js/453.16e548a7.chunk.js",
+    "index.html": "/test-automation-practice/index.html",
+    "main.e6c13ad2.css.map": "/test-automation-practice/static/css/main.e6c13ad2.css.map",
+    "main.c369018a.js.map": "/test-automation-practice/static/js/main.c369018a.js.map",
+    "453.16e548a7.chunk.js.map": "/test-automation-practice/static/js/453.16e548a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c369018a.js"
+  ]
+}
